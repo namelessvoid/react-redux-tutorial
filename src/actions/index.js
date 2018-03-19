@@ -1,0 +1,1 @@
+export const setMark = (mark, square) => ({ type: "SET_MARK", payload: {mark, square}});
